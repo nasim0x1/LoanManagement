@@ -1,6 +1,6 @@
 # Loan Management System (Admin-Focused)
 
-This PHP and HTML system is all about managing loans. I built it during my 3rd semester in a 4-year engineering course. It's more for admins than users, and I didn't use any fancy design patterns back then. This project reflects my growth from a beginner coder to someone who understands the importance of design patterns.
+This PHP and HTML system is all about managing loans. I built it during my 3rd semester in a 4-year diploma in engineering(Polytechnic) course. It's more for admins than users, and I didn't use any fancy design patterns back then. This project reflects my growth from a beginner coder to someone who understands the importance of design patterns.
 
 ## Features
 - Admin-friendly interface for keeping an eye on finances
