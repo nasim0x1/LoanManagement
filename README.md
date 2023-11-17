@@ -12,6 +12,6 @@ ___For Database.sql Contact With Email___
 ### Setup Client Profile
 ![ss 1](ss/4.png)
 ![ss 1](ss/5.png)
-### Client List With Hover Client Image
+### Client List
 ![ss 1](ss/6.png)
 
